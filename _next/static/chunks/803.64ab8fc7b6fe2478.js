@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[803],{3803:function(t,e,s){s.r(e),s.d(e,{default:function(){return u}});var i=s(7437),n=s(3145);function u(t){let{stack:e}=t;return(0,i.jsx)(n.default,{className:"rounded-sm mx-1",src:"/images/icons/".concat(e,".svg"),alt:e,priority:!0,quality:100,width:20,height:20,style:{width:20,height:20}},e)}}}]);
